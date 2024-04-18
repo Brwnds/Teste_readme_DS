@@ -73,7 +73,7 @@ Linguagens & Tecnologias: JavaScript, Vue.js, Python,JS, React.js, Django, Docke
   <tr>
     <td align="center">
       <a href="#" title="Perfil">
-        <img src="URL_DA_IMAGEM" width="100px;" alt="Foto de Perfil do Membro"/><br>
+        <img src="https://media-gru2-1.cdn.whatsapp.net/v/t61.24694-24/312282512_5546606828727671_1262353538853802709_n.jpg?ccb=11-4&oh=01_ASDtckerw_rK3XCBgL7LFdqt7F7BKm7qkYi0A82MfFVB5w&oe=662C0305&_nc_sid=e6ed6c&_nc_cat=101" width="100px;" alt="Foto de Perfil do Membro"/><br>
         <sub>
           <b>Luísa de Souza Ferreira </b>
         </sub>
@@ -166,7 +166,7 @@ Linguagens & Tecnologias: JavaScript, Python, PowerBI, HTML, CSS, Figma, Latex.\
   <tr>
     <td align="center">
       <a href="#" title="Perfil">
-        <img src="" width="100px;" alt="Foto de Perfil da Camila"/><br>
+        <img src="https://media-gru2-1.cdn.whatsapp.net/v/t61.24694-24/205531269_1116430055837694_9005589695527132283_n.jpg?ccb=11-4&oh=01_Q5AaIDjLHl9hdjcCjsAOrRgvr0nwomNBfP6eNJrYzq3TS2ph&oe=662D625A&_nc_sid=e6ed6c&_nc_cat=106" width="100px;" alt="Foto de Perfil da Camila"/><br>
         <sub>
           <b> Camila Silva Cavalcante </b>
         </sub>
