@@ -14,7 +14,7 @@ const AmareloGirassol = {
     6. Fórum: Os usuários têm acesso a um fórum onde podem postar atividades, incluindo nome, descrição, dono e link",
 }
 
-  Membros: {
+  const Membros: {
     "Bruno Félix": "Conselheiro",
     "Luísa Souza": "Duquesa",
     "Brenda Beatriz": "Cavaleira",
